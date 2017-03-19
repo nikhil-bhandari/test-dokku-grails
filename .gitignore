@@ -44,11 +44,6 @@ scheduler/target
 a.sh
 local.env
 localDeploy.sh
-misc/mycroft-prod-config-final.groovy
-misc/mycroft-prod-config-for-merge.groovy
-postalCodes.txt
-prod.env
-stopLocal.sh
 .gradle/
 build/
 buildPlugins/
@@ -59,3 +54,5 @@ buildPlugins/
 .slcache
 /coverage/
 /node_modules/
+prodDb.h2.db
+prodDb.lock.db
